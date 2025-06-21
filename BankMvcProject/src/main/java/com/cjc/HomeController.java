@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 @RequestMapping
 public class HomeController {
 	
-	List<Account> list = new ArrayList<>();
+	List<Account> list1 = new ArrayList<>();
 	
 	@RequestMapping("/reg")
 	public String prelogin()
