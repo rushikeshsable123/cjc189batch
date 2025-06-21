@@ -20,7 +20,7 @@ public class HomeController {
 	}
 	public void rushi11()
 	{
-		System.out.println("m1 of c");
+		System.out.println("m1 of ddd");
 	}
 	@RequestMapping("/regin")
 	public String sucData(@ModelAttribute Account acc)
