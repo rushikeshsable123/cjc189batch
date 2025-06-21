@@ -18,6 +18,10 @@ public class HomeController {
 	{
 		return "register";
 	}
+	public void rushi()
+	{
+		System.out.println("m1 of a");
+	}
 	@RequestMapping("/regin")
 	public String sucData(@ModelAttribute Account acc)
 	{
