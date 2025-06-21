@@ -18,7 +18,7 @@ public class HomeController {
 	{
 		return "register";
 	}
-	public void rushi1()
+	public void rushi11()
 	{
 		System.out.println("m1 of a");
 	}
